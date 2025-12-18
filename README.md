@@ -1,4 +1,4 @@
-<img width="1338" height="442" alt="screenshot (14)" src="https://github.com/user-attachments/assets/af853248-6834-489b-b830-e5a1f8defe76" />
+<img width="500" height="165" alt="screenshot (14)" src="https://github.com/user-attachments/assets/af853248-6834-489b-b830-e5a1f8defe76" />
 
 ### A Minecraft Mod Developer (Currently)
 
