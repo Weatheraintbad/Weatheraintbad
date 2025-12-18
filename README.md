@@ -1,4 +1,4 @@
-<img width="500" height="165" alt="screenshot (14)" src="https://github.com/user-attachments/assets/af853248-6834-489b-b830-e5a1f8defe76" />
+<img width="500" height="165" alt="screenshot (14)" src="https://github.com/user-attachments/assets/af853248-6834-489b-b830-e5a1f8defe76" /><br>
 
 ### A Minecraft Mod Developer (Currently)
 
@@ -13,3 +13,8 @@
   Modrinth **https://modrinth.com/user/Weatheraintbad_52658**<br>
 
   MC百科 **https://center.mcmod.cn/1217103/**
+
+  <img width="80" height="80" alt="模组icon-rounded-small" src="https://github.com/user-attachments/assets/30fa2b56-343f-4c4a-acbe-4065989d52a1" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="80" height="80" alt="模组icon-rounded-small" src="https://github.com/user-attachments/assets/450dfe91-ccd1-4e84-822c-36425d0221f5" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="80" height="80" alt="模组icon-rounded-small" src="https://github.com/user-attachments/assets/8e5b3603-a2f5-49fa-84c2-fa0c9e35f40c" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="80" height="80" alt="模组icon-rounded-small" src="https://github.com/user-attachments/assets/bca3c0c7-4aea-491a-a43d-d58d69511090" />
