@@ -13,9 +13,3 @@
   Modrinth **https://modrinth.com/user/Weatheraintbad_52658**<br>
 
   MC百科 **https://center.mcmod.cn/1217103/**
-
-### Working on
-
-- 🔧 Fixing bugs.
-
-- ⚙️ Adapting current mods to more minecraft versions.
