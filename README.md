@@ -1,5 +1,3 @@
-<img width="500" height="165" alt="screenshot (14)" src="https://github.com/user-attachments/assets/af853248-6834-489b-b830-e5a1f8defe76" /><br>
-
 ### A Minecraft Mod Developer (Currently)
 
 - 📫 联系方式 Reach me
