@@ -8,7 +8,7 @@
 
 - 📦 模组发布 Mod Publish
   
-  Modrinth **https://modrinth.com/user/Weatheraintbad_52658**<br>
+  Modrinth **https://modrinth.com/user/Weatheraintbad**<br>
 
   MC百科 **https://center.mcmod.cn/1217103/**
 
