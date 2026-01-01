@@ -10,6 +10,10 @@
 
   MC百科 **https://center.mcmod.cn/1217103/**
 
+  [<img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg">](https://fabricmc.net/)&nbsp;&nbsp;&nbsp;
+  [<img alt="forge" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg">](https://files.minecraftforge.net/net/minecraftforge/forge/)&nbsp;&nbsp;&nbsp;
+  [<img alt="neoforge" height="56" src="https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg">](https://neoforged.net/)
+
 - 👇 点击图标查看详情 Click icons for detail
   
   [<img width="80" height="80" alt="Yo&#39;s Coins icon" src="https://github.com/user-attachments/assets/c9c94a60-742a-42c3-bda1-3eed0f7f86ba" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
