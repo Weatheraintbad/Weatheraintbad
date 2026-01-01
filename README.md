@@ -8,7 +8,7 @@
 
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
    [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/28636f0d-6785-47b9-9745-528e2a77441e" />](https://center.mcmod.cn/1217103/)&nbsp;&nbsp;&nbsp;
-   [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
+   [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)
 
 ## 模组详情 Mod details
   
