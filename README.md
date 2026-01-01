@@ -1,5 +1,3 @@
-### A Minecraft Mod Developer (Currently)
-
 - 📫 联系方式 Reach me
 
   Email **weatheraintbad@foxmail.com**
