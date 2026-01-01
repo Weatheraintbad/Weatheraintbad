@@ -12,7 +12,7 @@
 
   MC百科 **https://center.mcmod.cn/1217103/**
 
-- 👇 点击图标查看模组详情 Click icons to view mod details
+- 👇 点击图标查看详情 Click icons for detail
   
   [<img width="80" height="80" alt="Yo&#39;s Coins icon" src="https://github.com/user-attachments/assets/c9c94a60-742a-42c3-bda1-3eed0f7f86ba" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
   [<img width="80" height="80" alt="Lucky Fishing Rod icon" src="https://github.com/user-attachments/assets/31870287-2f08-4a4c-aef3-475bfe5e8ae3" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
