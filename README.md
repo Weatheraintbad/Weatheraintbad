@@ -7,7 +7,8 @@
 ## 模组发布 Mod Publish
 
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
-   [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/28636f0d-6785-47b9-9745-528e2a77441e" />](https://center.mcmod.cn/1217103/)
+   [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
+   [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/6f8ff95b-0305-484f-85b9-4cebe8a5644b" />](https://center.mcmod.cn/1217103/)
 
 ## 模组详情 Mod details
   
