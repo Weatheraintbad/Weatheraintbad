@@ -18,3 +18,8 @@
   [<img width="70" height="70" alt="Every Single Day icon newline" src="https://github.com/user-attachments/assets/2af53fcd-dfad-4d55-9f8a-b7d6535960eb" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/3779f6f5-7e96-4dd0-9195-626bbcacba43" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Yo&#39;s Trade Post icon newline" src="https://github.com/user-attachments/assets/98a28a05-a662-4213-8fff-5caef9e6c5dd" />](https://github.com/Weatheraintbad/YosTradePost)
+
+<img alt="java" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/java_vector.svg">&nbsp;&nbsp;&nbsp;<img alt="gradle" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/gradle_vector.svg">&nbsp;&nbsp;&nbsp;<img alt="maven" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/maven_vector.svg">&nbsp;&nbsp;&nbsp;<img alt="markdown" height="25" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/markdown_vector.svg">
+
+
+
