@@ -16,5 +16,5 @@
   [<img width="70" height="70" alt="Lucky Fishing Rod icon newline" src="https://github.com/user-attachments/assets/0d86302d-733a-4853-888c-50b3f2fea38a" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Totem of Luck icon newline" src="https://github.com/user-attachments/assets/1eb7719e-c3f1-4ca5-bec5-946ebb018147"/>](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Every Single Day icon newline" src="https://github.com/user-attachments/assets/d2e917ec-9e75-48ff-8f7f-4ed9701597e2" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/7c7a482f-1188-486d-b96c-2c48c1abd50e" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/1288d021-2070-4832-b821-cb3ef437a122" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Yo&#39;s Trade Post icon newline" src="https://github.com/user-attachments/assets/e9a64af0-d428-4e2c-885e-d690f3779336" />](https://github.com/Weatheraintbad/YosTradePost)
