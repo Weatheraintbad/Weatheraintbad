@@ -12,9 +12,9 @@
 
 ## 模组详情 Mod details
   
-  [<img width="70" height="70" alt="Yo&#39;s Coins icon newline" src="https://github.com/user-attachments/assets/c857f4b4-1f5d-484e-8bf1-2d7c6825724b" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Lucky Fishing Rod icon newline" src="https://github.com/user-attachments/assets/0d86302d-733a-4853-888c-50b3f2fea38a" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Totem of Luck icon newline" src="https://github.com/user-attachments/assets/1eb7719e-c3f1-4ca5-bec5-946ebb018147"/>](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Every Single Day icon newline" src="https://github.com/user-attachments/assets/d2e917ec-9e75-48ff-8f7f-4ed9701597e2" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/1288d021-2070-4832-b821-cb3ef437a122" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Yo&#39;s Trade Post icon newline" src="https://github.com/user-attachments/assets/e9a64af0-d428-4e2c-885e-d690f3779336" />](https://github.com/Weatheraintbad/YosTradePost)
+  [<img width="70" height="70" alt="Yo&#39;s Coins icon newline" src="https://github.com/user-attachments/assets/94c6952c-ef7d-4cbb-b3d3-a7d171940ea9" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Lucky Fishing Rod icon newline" src="https://github.com/user-attachments/assets/e938de85-c11f-4f99-b9a1-f0e581f8f8cf" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Totem of Luck icon newline" src="https://github.com/user-attachments/assets/b9ec1b09-2ff4-42d6-8d82-0d6facc8c195"/>](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Every Single Day icon newline" src="https://github.com/user-attachments/assets/2af53fcd-dfad-4d55-9f8a-b7d6535960eb" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/3779f6f5-7e96-4dd0-9195-626bbcacba43" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Yo&#39;s Trade Post icon newline" src="https://github.com/user-attachments/assets/98a28a05-a662-4213-8fff-5caef9e6c5dd" />](https://github.com/Weatheraintbad/YosTradePost)
