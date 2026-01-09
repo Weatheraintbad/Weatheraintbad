@@ -12,12 +12,12 @@
 
 ## 模组详情 Mod details
   
-  [<img width="70" height="70" alt="Stardew HUD icon newline" src="https://github.com/user-attachments/assets/3779f6f5-7e96-4dd0-9195-626bbcacba43" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Totem of Luck icon newline" src="https://github.com/user-attachments/assets/b9ec1b09-2ff4-42d6-8d82-0d6facc8c195"/>](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Lucky Fishing Rod icon newline" src="https://github.com/user-attachments/assets/e938de85-c11f-4f99-b9a1-f0e581f8f8cf" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Every Single Day icon newline" src="https://github.com/user-attachments/assets/2af53fcd-dfad-4d55-9f8a-b7d6535960eb" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Yo&#39;s Coins icon newline" src="https://github.com/user-attachments/assets/94c6952c-ef7d-4cbb-b3d3-a7d171940ea9" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="Yo&#39;s Trade Post icon newline" src="https://github.com/user-attachments/assets/98a28a05-a662-4213-8fff-5caef9e6c5dd" />](https://github.com/Weatheraintbad/YosTradePost)
+  [<img width="70" height="70" alt="StardewHUD-40@1x" src="https://github.com/user-attachments/assets/9903cb69-abcd-4e2d-bea5-2bfc8388dc78" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="TotemofLuck-40@1x" src="https://github.com/user-attachments/assets/88cebc52-1374-45bd-bc2a-20bff7bbe282" />](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="LuckyFishingRod-40@1x" src="https://github.com/user-attachments/assets/d27154b2-cf74-4078-a663-6b01359dfdcf" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="EverySingleDay-40@1x" src="https://github.com/user-attachments/assets/cecb9d84-2933-4e2d-a805-8b6e5fd99b90" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="YosCoins-40@1x" src="https://github.com/user-attachments/assets/c1de9d48-031c-426a-9385-e10482de1f6c" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="YosTradePost-40@1x" src="https://github.com/user-attachments/assets/01f9ac55-b234-4531-b102-e6b81497da60" />](https://github.com/Weatheraintbad/YosTradePost)
 
 ## 应用详情 App details
 
