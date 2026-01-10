@@ -19,6 +19,7 @@
   [<img width="70" height="70" alt="YosCoins-40@1x" src="https://github.com/user-attachments/assets/c1de9d48-031c-426a-9385-e10482de1f6c" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="YosTradePost-40@1x" src="https://github.com/user-attachments/assets/01f9ac55-b234-4531-b102-e6b81497da60" />](https://github.com/Weatheraintbad/YosTradePost)
 
-## 应用详情 App details
+## 更多详情 More details
 
-[<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)
+[<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)&nbsp;&nbsp;&nbsp;
+[<img width="70" height="70" alt="Craftopia Valley-iOS-Default-40x40@2x" src="https://github.com/user-attachments/assets/6d04dc19-37ab-449a-9315-2691c76bcc90" />](https://github.com/Weatheraintbad/CraftopiaValley)
