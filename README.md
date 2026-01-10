@@ -22,4 +22,5 @@
 ## 更多详情 More details
 
 [<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)&nbsp;&nbsp;&nbsp;
-[<img width="70" height="70" alt="Craftopia Valley-iOS-Default-40x40@2x" src="https://github.com/user-attachments/assets/6d04dc19-37ab-449a-9315-2691c76bcc90" />](https://github.com/Weatheraintbad/CraftopiaValley)
+[<img width="70" height="70" alt="Craftopia Valley-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/56711f03-5df8-4203-ae12-d85716b2e828" />
+](https://github.com/Weatheraintbad/CraftopiaValley)
