@@ -4,6 +4,12 @@
 
   微信 Wechat [**Weatheraintbad**](https://github.com/user-attachments/assets/b0a30d50-3eef-40be-bb86-9c259a6aaf36)
 
+## 相关链接 Links
+
+  个人主页 Personal Website [**weatheraintbad.com**](http://weatheraintbad.com)
+
+  博客 Blog [**weatheraintbad.com/blog**](http://weatheraintbad.com/blog)
+
 ## 模组发布 Mod Publish
 
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
@@ -21,5 +27,6 @@
 
 ## 更多详情 More details
 
-[<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)&nbsp;&nbsp;&nbsp;
-[<img width="70" height="70" alt="Craftopia Valley-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/8fbc194a-12df-4cf2-851b-7a2f5bd272ef" />](https://github.com/Weatheraintbad/CraftopiaValley)
+  [<img width="70" height="70" alt="answerbook-icon" src="https://github.com/user-attachments/assets/27acfce3-c04d-4348-86d0-06c16352f174" />](https://github.com/Weatheraintbad/AnswerBook)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="Craftopia Valley-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/8fbc194a-12df-4cf2-851b-7a2f5bd272ef" />](https://github.com/Weatheraintbad/CraftopiaValley)
