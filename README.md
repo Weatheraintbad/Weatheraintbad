@@ -25,7 +25,7 @@
   [<img width="70" height="70" alt="YosCoins-40@1x" src="https://github.com/user-attachments/assets/c1de9d48-031c-426a-9385-e10482de1f6c" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="YosTradePost-40@1x" src="https://github.com/user-attachments/assets/01f9ac55-b234-4531-b102-e6b81497da60" />](https://github.com/Weatheraintbad/YosTradePost)
 
-## 更多详情 More details
+## 更多项目 More projects
 
   [<img width="70" height="70" alt="answerbook-icon" src="https://github.com/user-attachments/assets/27acfce3-c04d-4348-86d0-06c16352f174" />](https://github.com/Weatheraintbad/AnswerBook)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="Desktop Polaroid-iOS-Dark-40x40@2x" src="https://github.com/user-attachments/assets/38a7308a-2503-4ba2-bfe6-8566d251a894" />](https://github.com/Weatheraintbad/DesktopPolaroid)&nbsp;&nbsp;&nbsp;
