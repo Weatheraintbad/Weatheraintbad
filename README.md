@@ -6,7 +6,7 @@
 
 ## 相关链接 Links
 
-  个人主页 Personal Website [**weatheraintbad.com**](http://weatheraintbad.com)
+  个人网站 Personal Website [**weatheraintbad.com**](http://weatheraintbad.com)
 
   博客 Blog [**weatheraintbad.com/blog**](http://weatheraintbad.com/blog)
 
@@ -15,6 +15,8 @@
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
    [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/6f8ff95b-0305-484f-85b9-4cebe8a5644b" />](https://center.mcmod.cn/1217103/)
+
+<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-32000+-green">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">
 
 ## 模组详情 Mod details
   
