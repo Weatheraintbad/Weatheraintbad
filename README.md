@@ -1,7 +1,7 @@
 ## 联系方式 Reach me
 
   电子邮箱 Email **weatheraintbad@foxmail.com**
-
+  
   微信 Wechat [**Weatheraintbad**](https://github.com/user-attachments/assets/b0a30d50-3eef-40be-bb86-9c259a6aaf36)
 
 ## 相关链接 Links
@@ -16,13 +16,13 @@
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
    [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/6f8ff95b-0305-484f-85b9-4cebe8a5644b" />](https://center.mcmod.cn/1217103/)
 
-<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-35000+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">
+<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-38000+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/许可/Licence-CC0 1.0-white">
 
 ## 模组详情 Mod details
   
   [<img width="70" height="70" alt="StardewHUD-40@1x" src="https://github.com/user-attachments/assets/9903cb69-abcd-4e2d-bea5-2bfc8388dc78" />](https://github.com/Weatheraintbad/StardewHUD)&nbsp;&nbsp;&nbsp;
-  [<img width="70" height="70" alt="TotemofLuck-40@1x" src="https://github.com/user-attachments/assets/88cebc52-1374-45bd-bc2a-20bff7bbe282" />](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="LuckyFishingRod-40@1x" src="https://github.com/user-attachments/assets/d27154b2-cf74-4078-a663-6b01359dfdcf" />](https://github.com/Weatheraintbad/LuckyFishingRod)&nbsp;&nbsp;&nbsp;
+  [<img width="70" height="70" alt="TotemofLuck-40@1x" src="https://github.com/user-attachments/assets/88cebc52-1374-45bd-bc2a-20bff7bbe282" />](https://github.com/Weatheraintbad/TotemofLuck)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="EverySingleDay-40@1x" src="https://github.com/user-attachments/assets/cecb9d84-2933-4e2d-a805-8b6e5fd99b90" />](https://github.com/Weatheraintbad/EverySingleDay)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="YosCoins-40@1x" src="https://github.com/user-attachments/assets/c1de9d48-031c-426a-9385-e10482de1f6c" />](https://github.com/Weatheraintbad/YosCoins)&nbsp;&nbsp;&nbsp;
   [<img width="70" height="70" alt="YosTradePost-40@1x" src="https://github.com/user-attachments/assets/01f9ac55-b234-4531-b102-e6b81497da60" />](https://github.com/Weatheraintbad/YosTradePost)
