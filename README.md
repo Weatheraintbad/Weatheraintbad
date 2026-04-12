@@ -16,7 +16,7 @@
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
    [<img width="153" height="53" alt="Available on MCMOD" src="https://github.com/user-attachments/assets/6f8ff95b-0305-484f-85b9-4cebe8a5644b" />](https://center.mcmod.cn/1217103/)
 
-<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-38000+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/许可/Licence-CC0 1.0-white">
+<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-60000+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/许可/Licence-CC0 1.0-white">
 
 ## 模组详情 Mod details
   
