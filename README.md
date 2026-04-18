@@ -6,11 +6,11 @@
 
 ## 相关链接 Links
 
-  个人网站 Personal Website [**weatheraintbad.com**](https://weatheraintbad.com)
+  个人网站 Personal Website [**Weatheraintbad.com**](https://weatheraintbad.com)
 
-  博客 Blog [**weatheraintbad.com/blog**](https://weatheraintbad.com/blog)
+  文章 Article [**Article.srces.cn**](https://article.srces.cn)
 
-  HTML一键部署 One-click HTML deployment [**Sited.cn**](https://sited.cn)
+  HTML一键部署 One-click HTML Deployment [**Sited.cn**](https://sited.cn)
 
   极简网页工具箱 Minimalist Web Toolkit [**Tool.Srces.cn**](https://tool.srces.cn)
 
