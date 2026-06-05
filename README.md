@@ -10,8 +10,6 @@
 
   工作室 Studio [**Srces.cn**](https://srces.cn)
 
-  HTML极速部署 One-click HTML Deployment [**Sited.cn**](https://sited.cn)
-
   极简网页工具箱 Minimalist Web Toolkit [**Tool.Srces.cn**](https://tool.srces.cn)
 
 ## 下载模组 Download Mods
@@ -19,4 +17,4 @@
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
 
-<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-110k+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/许可/Licence-CC0 1.0-white">
+<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-150k+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/许可/Licence-CC0 1.0-white">
