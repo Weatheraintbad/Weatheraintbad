@@ -16,5 +16,5 @@
 
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
-   
-<img alt="下载量" height=25 src="https://api.srces.cn/badge/mod-downloads.svg?label=Downloads&color=059605&labelColor=111111&logo=download&style=flat">
+
+<img width="1200" src="https://api.srces.cn/badge/mod-downloads-trend.svg?title=Mod%20Downloads%20Trend&style=smooth&width=800&height=300&background=000000&plotColor=000000&gridColor=334155&textColor=e2e8f0&strokeWidth=3&colors=22d3ee,a78bfa,34d399,f59e0b,fb7185,facc15&total=false" alt="下载量">
