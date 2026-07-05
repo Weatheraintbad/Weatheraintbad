@@ -16,5 +16,5 @@
 
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/user/Weatheraintbad)&nbsp;&nbsp;&nbsp;
    [<img alt="modrinth" height="53" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg">](https://www.curseforge.com/members/weatheraintbad/projects)&nbsp;&nbsp;&nbsp;
-
-<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/总下载量/Total Downloads-230k+-orange">&nbsp;&nbsp;&nbsp;<img alt="totaldownloads" height="25" src="https://img.shields.io/badge/版本迭代/Updates-100+-blue">
+   
+<img alt="下载量" height=25 src="https://api.srces.cn/badge/mod-downloads.svg?label=Downloads&color=059605&labelColor=111111&logo=download&style=flat">
